@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sakkke/svelte-fantastic/issues"
   },
-  "homepage": "https://github.com/sakkke/svelte-fantastic#readme"
+  "homepage": "https://github.com/sakkke/svelte-fantastic#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
 }
